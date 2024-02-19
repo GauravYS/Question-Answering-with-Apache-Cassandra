@@ -2,7 +2,7 @@
 Querying large documents using Astra DB and LangChain
 
 ## 🚀 About Me
-I'm a machine Learning enthusiast . My areas of interest are Deep Learning, Reinforcement Learning with Human Feedback, Natural Language Processing and Generative AI.
+I'm a Machine Learning enthusiast . My areas of interest are Deep Learning, Reinforcement Learning with Human Feedback, Natural Language Processing and Generative AI.
 
 ## High-level System Overview
 ![image](https://github.com/GauravYS/Interact-with-Research-Papers/assets/116845183/b147841b-5bda-476b-aa9e-fb0c77fe4c8f)
